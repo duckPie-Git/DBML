@@ -25,14 +25,10 @@ Download Amazon review datasets from http://jmcauley.ucsd.edu/data/amazon/ (In o
 
 
 # Run
-Run train/train_baseline.py for static model.
-```shell
-python train_baseline.py --cuda --data_name dataname
-```
-Run train/train.py for dynamic model.
-```shell
-python train.py --cuda --data_name dataname
-```
+Run train_offline.ipynb for offline model.
+
+Run train_online.ipynb for dynamic model.
+
 Where the data_name can be 'Electronics', 'Cell Phones and Accessories', 'Clothing, Shoes and Jewelry' or 'Toys and Games'.
 
 
