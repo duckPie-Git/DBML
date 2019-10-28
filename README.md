@@ -27,7 +27,6 @@ Download Amazon review datasets from http://jmcauley.ucsd.edu/data/amazon/ (In o
 # Run
 Run train_offline.ipynb for offline model.
 
-Run train_online.ipynb for online model.
 
 Where the data_name can be 'Electronics', 'Cell Phones and Accessories', 'Clothing, Shoes and Jewelry' or 'Toys and Games'.
 
